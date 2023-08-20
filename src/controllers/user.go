@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/ErrorWarden/server/configs"
-	"github.com/ErrorWarden/server/models"
+	"github.com/ErrorWarden/server/src/models"
 	"github.com/gin-gonic/gin"
 	"github.com/go-playground/validator/v10"
 	"go.mongodb.org/mongo-driver/bson/primitive"

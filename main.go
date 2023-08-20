@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/ErrorWarden/server/configs"
-	"github.com/ErrorWarden/server/routes"
+	"github.com/ErrorWarden/server/src/routes"
 
 	"github.com/gin-gonic/gin"
 )

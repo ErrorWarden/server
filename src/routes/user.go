@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"github.com/ErrorWarden/server/controllers"
+	"github.com/ErrorWarden/server/src/controllers"
 	"github.com/gin-gonic/gin"
 )
 
